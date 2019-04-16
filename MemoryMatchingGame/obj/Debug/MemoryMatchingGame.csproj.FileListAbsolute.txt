@@ -1,0 +1,74 @@
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe.config
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.pdb
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.GameWindow.resources
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Properties.Resources.resources
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.GenerateResource.Cache
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.exe
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.pdb
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame._2Players.resources
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.OnePlayer.resources
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.dll
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.dll
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.xml
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.xml
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.About.resources
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Help.resources
+C:\Users\izoni\Downloads\MemoryMatchingGame-master\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.HighScore.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe.config
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.pdb
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.dll
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.dll
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.xml
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.xml
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame._2Players.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.About.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.GameWindow.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Help.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.HighScore.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.OnePlayer.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Properties.Resources.resources
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.GenerateResource.Cache
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.exe
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.pdb
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csprojAssemblyReference.cache
+C:\Users\izoni\source\repos\MemoryMatchingGame-master\src\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.CopyComplete
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe.config
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.exe
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\MemoryMatchingGame.pdb
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\EntityFramework.dll
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\System.Data.SQLite.dll
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\EntityFramework.xml
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\System.Data.SQLite.xml
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csprojAssemblyReference.cache
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame._2Players.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.About.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.GameWindow.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Help.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.HighScore.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.OnePlayer.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.Properties.Resources.resources
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.GenerateResource.cache
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.csproj.CopyComplete
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.exe
+C:\Users\izoni\OneDrive\Dokumenti\GitHub\Pokemon Memory Game\MemoryMatchingGame\obj\Debug\MemoryMatchingGame.pdb
